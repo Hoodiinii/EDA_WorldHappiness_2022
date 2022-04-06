@@ -23,3 +23,6 @@ Few Screenshots from the visualizations.
 
 ![vis1](https://user-images.githubusercontent.com/42840136/161956472-bc89a563-f79f-4e21-b628-f65c29d75f96.JPG)
 
+![vis2](https://user-images.githubusercontent.com/42840136/161956783-a219e61a-cc90-4799-8fc8-efbe64ef944f.JPG)
+
+
